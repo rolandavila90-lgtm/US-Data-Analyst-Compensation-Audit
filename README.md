@@ -1,4 +1,4 @@
-# 📊 Data Analyst Salary Audit (2023)
+# 📊 US-Data-Analyst-Compensation-Audit
 > A SQL-based audit of Data Analyst salary trends across 
 > major US hiring hubs using real job postings data.
 
